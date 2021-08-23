@@ -1,2 +1,2 @@
 # desafio-vtex
-Desafio semana 9 Vtex
+Desafio semana 9 Vtex incompleto
